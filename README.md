@@ -2,7 +2,7 @@
   <tbody>
     <tr>
       <td colspan="4" align="center"><div dir="auto">
-       <h1>2026机场排名（V2ray/Clash Verge/Shadowrocket）机场对比测评，机场导航大全</h1></td>
+       <h1>2026机场排名推荐，机场对比测评，机场导航大全</h1></td>
     </tr>
     <tr>
       <td width="215"><strong>机场名称</strong></td>
