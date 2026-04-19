@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>XMRth</td>
-      <td>中转机场，速度快</td>
+      <td>中转机场，速度快，流量多</td>
       <td><a href="https://uyez.github.io/xmr">https://uyez.github.io/xmr</a></td>
       <td>V2ray</td>
     </tr>
@@ -30,12 +30,13 @@
     </tr>
     <tr>
       <td>快雷GO</td>
-      <td>实惠，有不限时套餐（码：aa555）</td>
+      <td>实惠，有不限时套餐（5折码：aa555）</td>
       <td><a href="https://uyez.github.io/kl">https://uyez.github.io/kl</a></td>
       <td>Shadowsocks</td>
     </tr>
     <tr>
-      <td colspan="4">*网址如果打不开请开启&ldquo;全局模式&ldquo;翻墙打开。</td>
+      <td colspan="4">*网址如果打不开请开启&ldquo;全局模式&ldquo;翻墙打开。<br>
+      *大家可以收藏这个网页，有好用的机场我会在这里分享</td>
     </tr>
   </tbody>
 </table>
