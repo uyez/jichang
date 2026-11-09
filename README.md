@@ -25,12 +25,12 @@
     <tr>
       <td>良心云</td>
       <td>性价比机场，超多流量</td>
-      <td><a href="https://uyez.github.io/mitce">https://uyez.github.io/lxy</a></td>
+      <td><a href="https://uyez.github.io/lxy">https://uyez.github.io/lxy</a></td>
       <td>hysteria 2/vless</td>
     </tr>
     <tr>
       <td>快雷GO</td>
-      <td>实惠，有不限时套餐（9折码：aa555）</td>
+      <td>实惠，有不限时套餐（5折码：aa555）</td>
       <td><a href="https://uyez.github.io/kl">https://uyez.github.io/kl</a></td>
       <td>Shadowsocks</td>
     </tr>
