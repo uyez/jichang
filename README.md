@@ -23,9 +23,9 @@
       <td>V2ray</td>
     </tr>
     <tr>
-      <td>Mitce</td>
-      <td>便宜机场，无限流量（8折码：like20）</td>
-      <td><a href="https://uyez.github.io/mitce">https://uyez.github.io/mitce</a></td>
+      <td>良心云</td>
+      <td>性价比机场，超多流量</td>
+      <td><a href="https://uyez.github.io/mitce">https://uyez.github.io/lxy</a></td>
       <td>hysteria 2/vless</td>
     </tr>
     <tr>
