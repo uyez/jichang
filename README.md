@@ -35,6 +35,12 @@
       <td>Shadowsocks</td>
     </tr>
     <tr>
+      <td>月兔VPN（Tsuki）</td>
+      <td>公网中转，12元/30天，100G/30天</td>
+      <td><a href="https://buddahs-temptation.win/tsuki">https://buddahs-temptation.win/tsuki</a></td>
+      <td>Hysteria2（UDP）</td>
+    </tr>
+    <tr>
       <td colspan="4">*网址如果打不开请开启&ldquo;全局模式&ldquo;翻墙打开。<br>
       *大家可以收藏这个网页，有好用的机场我会在这里分享</td>
     </tr>
